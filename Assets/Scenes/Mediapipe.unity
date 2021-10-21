@@ -374,7 +374,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 350198311383749045, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 442009793129302463, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
@@ -382,7 +382,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 612177186173559185, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 2010556392687314449, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
@@ -434,7 +434,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3205717458848933576, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 4128167752236922877, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Name
@@ -446,7 +446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6294974029349068275, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6310897845333335494, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
@@ -454,7 +454,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7161817479051607998, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7912922094588307127, guid: db4aba2e7e8f0fc4ea9754d998bc940a, type: 3}
       propertyPath: m_Parameters.widthMultiplier
