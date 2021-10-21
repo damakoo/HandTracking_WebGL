@@ -1,12 +1,5 @@
 mergeInto(LibraryManager.library, {
-    Hello: function(){
-        window.alert("Hello, world!");
-    },
-    Predict: function(base64Text) {
-        base64Text = Pointer_stringify(base64Text);
-        tf_predict(base64Text)
-    },
-    Result: function(){
+    HandTracking: function(){
     showresult();
     },
  GetLocalStorage: function(key) {

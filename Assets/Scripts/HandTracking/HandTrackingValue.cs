@@ -4,29 +4,21 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Runtime.InteropServices;
 
-public class ReceiveResult : MonoBehaviour
+public class HandTrackingValue : MonoBehaviour
 {
     [DllImport("__Internal")]
-    private static extern void Result();
+    private static extern void HandTracking();
     [DllImport("__Internal")]
     private static extern string GetLocalStorage(string key);
     [DllImport("__Internal")]
     private static extern void SetLocalStorage(string key, string value);
     public Vector3[] landmarks { get; set; } = new Vector3[21];
     //public Vector3[] landmarks = new Vector3[21];
-    public Text label;
-    public void SetText(string text)
-    {
-        label.text = text;
-    }
 
     void Update()
     {
-        Result();
+        HandTracking();
         var jsonstr = GetLocalStorage("handpos");
-        SetText(jsonstr);
-        //Debug.Log(jsonstr);
         landmarks = JsonHelper.FromJson<Vector3>(jsonstr);
-        //landmarks.print();
     }
 }
