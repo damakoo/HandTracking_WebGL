@@ -28,11 +28,6 @@ public class HandTrackingManager : MonoBehaviour
                 _Fingerline.Initialize(HandTables.LineRendererTable[i % 5], this);
                 linenum += 1;
             }
-            else if (transform.GetChild(i).gameObject.tag == "HandMesh")
-            {
-                HandMesh handmesh = transform.GetChild(i).gameObject.AddComponent<HandMesh>();
-                handmesh.Initialize(this);
-            }
         }
     }
 }
