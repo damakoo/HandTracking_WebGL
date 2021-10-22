@@ -1,6 +1,6 @@
 # HandTracking_WebGL
 
-WebGLでMediapipeのHandTrackingを使用したい人のためのサンプルプロジェクト
+UnityのWebGLでMediapipeのHandTrackingを使用したい人のためのサンプルプロジェクト
 
 # DEMO
 
