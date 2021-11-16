@@ -19,6 +19,9 @@ public class HandTrackingValue : MonoBehaviour
     {
         HandTracking();
         var jsonstr = GetLocalStorage("handpos");
-        landmarks = JsonHelper.FromJson<Vector3>(jsonstr);
+        if (jsonstr != null)
+        {
+            landmarks = JsonHelper.FromJson<Vector3>(jsonstr);
+        }
     }
 }
