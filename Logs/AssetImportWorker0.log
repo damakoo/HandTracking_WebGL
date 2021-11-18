@@ -121,3 +121,132 @@ System memory in use after: 34.9 MB.
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1566.
 Total: 3.077500 ms (FindLiveObjects: 0.119500 ms CreateObjectMapping: 0.035000 ms MarkObjects: 2.882900 ms  DeleteObjects: 0.038500 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 345.846223 seconds.
+  path: Assets/Scripts/HandTracking
+  artifactKey: Guid(8299487377f31f94787fb65e4a47d33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking using Guid(8299487377f31f94787fb65e4a47d33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f693e248b44612111326f8820b7a75bb') in 0.005746 seconds
+  Import took 0.007999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.763798 seconds.
+  path: Assets/Scripts/HandTracking/FingerPosition.cs
+  artifactKey: Guid(2594df35d24a5d44aa9e016dc88989dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/FingerPosition.cs using Guid(2594df35d24a5d44aa9e016dc88989dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d8abfef5c19b8719d528953e1334df') in 0.014687 seconds
+  Import took 0.016237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487431 seconds.
+  path: Assets/Scripts/HandTracking/FingerLine.cs
+  artifactKey: Guid(40caedaf0c2887d4ebdf30948bb4dd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/FingerLine.cs using Guid(40caedaf0c2887d4ebdf30948bb4dd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f7533275d6021e7bae35213d846a6f') in 0.005278 seconds
+  Import took 0.006780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006087 seconds.
+  path: Assets/Scripts/HandTracking/FingerLine.cs
+  artifactKey: Guid(40caedaf0c2887d4ebdf30948bb4dd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/FingerLine.cs using Guid(40caedaf0c2887d4ebdf30948bb4dd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f7533275d6021e7bae35213d846a6f') in 0.002872 seconds
+  Import took 0.004377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.629126 seconds.
+  path: Assets/Scripts/HandTracking/HandTables.cs
+  artifactKey: Guid(4e3bf4025c68cf345a38f6bc618d4403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTables.cs using Guid(4e3bf4025c68cf345a38f6bc618d4403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724051557b93cdbee5fad3c19d791974') in 0.006490 seconds
+  Import took 0.008053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Scripts/HandTracking/HandTables.cs
+  artifactKey: Guid(4e3bf4025c68cf345a38f6bc618d4403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTables.cs using Guid(4e3bf4025c68cf345a38f6bc618d4403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724051557b93cdbee5fad3c19d791974') in 0.001868 seconds
+  Import took 0.003488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429723 seconds.
+  path: Assets/Scripts/HandTracking/HandTrackingManager.cs
+  artifactKey: Guid(dd6f27226bc937642ac2bd2d5dfd99a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTrackingManager.cs using Guid(dd6f27226bc937642ac2bd2d5dfd99a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80222d86974664d663437bc74391c4f8') in 0.004603 seconds
+  Import took 0.006404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001509 seconds.
+  path: Assets/Scripts/HandTracking/HandTrackingManager.cs
+  artifactKey: Guid(dd6f27226bc937642ac2bd2d5dfd99a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTrackingManager.cs using Guid(dd6f27226bc937642ac2bd2d5dfd99a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80222d86974664d663437bc74391c4f8') in 0.001410 seconds
+  Import took 0.002778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.674847 seconds.
+  path: Assets/Scripts/HandTracking/HandTrackingValue.cs
+  artifactKey: Guid(3772a9c889ba35d4aa7510e18a3ad326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTrackingValue.cs using Guid(3772a9c889ba35d4aa7510e18a3ad326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf7dcc94be8afd037e3e7656829e924') in 0.005903 seconds
+  Import took 0.007508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.597338 seconds.
+  path: Assets/Scripts/HandTracking/JsonHelper.cs
+  artifactKey: Guid(b1c14da6ebd36a24f8cdb7216709af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/JsonHelper.cs using Guid(b1c14da6ebd36a24f8cdb7216709af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6823ee5b7bb61e1f211fe65d6a3c2f7b') in 0.004914 seconds
+  Import took 0.006711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136933 seconds.
+  path: Assets/Scripts/HandTracking/JsonHelper.cs
+  artifactKey: Guid(b1c14da6ebd36a24f8cdb7216709af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/JsonHelper.cs using Guid(b1c14da6ebd36a24f8cdb7216709af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6823ee5b7bb61e1f211fe65d6a3c2f7b') in 0.001820 seconds
+  Import took 0.003564 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.252700 ms (FindLiveObjects: 0.111300 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.098400 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.294429 seconds.
+  path: Assets/Scripts/HandTracking/HandTrackingValue.cs
+  artifactKey: Guid(3772a9c889ba35d4aa7510e18a3ad326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HandTracking/HandTrackingValue.cs using Guid(3772a9c889ba35d4aa7510e18a3ad326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6936dc1174ba66c0164bff3d995a2e') in 0.004124 seconds
+  Import took 0.006213 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 35.0 MB.
+System memory in use after: 35.1 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.741500 ms (FindLiveObjects: 0.125800 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.547900 ms  DeleteObjects: 0.009200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
